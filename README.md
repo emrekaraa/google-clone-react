@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Netflix Clone React Demo Link
+Click To View: [https://clone-react-3d889.web.app/](https://clone-react-3d889.web.app/)
+
+Google Custom Search Api source link: [https://developers.google.com/custom-search/v1/overview](https://developers.google.com/custom-search/v1/overview)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
