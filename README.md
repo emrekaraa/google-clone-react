@@ -1,5 +1,5 @@
 # Netflix Clone React Demo Link
-Click To View: [https://clone-react-3d889.web.app/](https://clone-react-3d889.web.app/)
+- Click To View: [https://clone-react-3d889.web.app/](https://clone-react-3d889.web.app/)
 
 Google Custom Search Api source link: [https://developers.google.com/custom-search/v1/overview](https://developers.google.com/custom-search/v1/overview)
 
